@@ -124,11 +124,7 @@ Você está desenvolvendo uma aplicação baseada em microsserviços. Um serviç
 - Habilite "Entrega bruta" no SNS para mensagens limpas, se desejado.
 
 ---
-## 🎥 Vídeo Demonstrativo
 
-Você poderá assistir a um vídeo demonstrando todo o processo passo a passo. Fique ligado!
-
----
 ## 📚 Conceitos abordados
 
 - **SNS**: Serviço de publicação/assinatura para notificação de eventos.
